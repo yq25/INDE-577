@@ -14,6 +14,12 @@ For unsupervised learning algorithms, the AI system is presented with an unlabel
 
 In case of supervised learning, the system has both the inputs and the outputs. So depending on the difference between the desired output and the observed output, the system is set to learn and improve. However, in the case of unsupervised learning, the system only has inputs and no outputs.
 
+## Topics
+
+K-means Clustering
+
+Principle Component Analysis
+
 ## References
 
 https://en.wikipedia.org/wiki/Unsupervised_learning
