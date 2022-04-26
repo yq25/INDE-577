@@ -32,9 +32,6 @@ K-means clustering
 
 Principle Component Analysis
 
-### Reinforcement Learning
-
-Tabular versus Deep Learning Methods
 
 
 <!--
