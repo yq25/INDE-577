@@ -39,3 +39,7 @@ Decision/Regression Trees
 Ensemble Learning
 
 ## References
+
+https://en.wikipedia.org/wiki/Supervised_learning
+
+https://www.ibm.com/cloud/learn/supervised-learning#:~:text=Supervised%20learning%20uses%20a%20training,error%20has%20been%20sufficiently%20minimized.
