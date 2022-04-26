@@ -7,21 +7,33 @@ This data science course covers algorithms from supervised learning, unsupervise
 ## Topics
 
 ### Supervised Learning
+
 Model Building and Error Analysis
+
 Linear Regression
+
 Gradient Descent 
+
 Logistic Regression
+
 Neural Nets
+
 Support Vector Machines
+
 K-nearest Neighbors
+
 Decision/Regression Trees
+
 Ensemble Learning
 
-### Unsupervised Learning 
+### Unsupervised Learning
+
 K-means clustering
+
 Principle Component Analysis
 
 ### Reinforcement Learning
+
 Tabular versus Deep Learning Methods
 
 
