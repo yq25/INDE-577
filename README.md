@@ -1,4 +1,4 @@
-# Rice university - Data Science and INDE 577 Machine Learning  🌱 
+# Rice University - INDE 577 Data Science and Machine Learning  🌱 
 
 ## Course Description
 
