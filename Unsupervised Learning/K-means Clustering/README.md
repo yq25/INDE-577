@@ -16,6 +16,13 @@ k-means clustering tries to group similar kinds of items in form of clusters. It
 - Initialize the centroids.
 - Select the group and find the average.
 
+## Datasets
+
+### sklearn.datasets.make_circles
+Make a large circle containing a smaller circle in 2d.
+
+A simple toy dataset to visualize clustering and classification algorithms.
+
 ## References
 https://en.wikipedia.org/wiki/K-means_clustering
 
