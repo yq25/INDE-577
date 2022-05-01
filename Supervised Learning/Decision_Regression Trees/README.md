@@ -10,9 +10,10 @@ Decision trees are constructed from only two elements — nodes and branches
 
 ## sklearn.datasets.make_circles
 
-Make a large circle containing a smaller circle in 2d.
+Make a large circle containing a smaller circle in 2d and produces Gaussian data with a spherical decision boundary for binary classification.
 
 A simple toy dataset to visualize clustering and classification algorithms.
+
 
 ## The Olivetti faces dataset
 This dataset contains a set of face images taken between April 1992 and April 1994 at AT&T Laboratories Cambridge. The sklearn.datasets.fetch_olivetti_faces function is the data fetching / caching function that downloads the data archive from AT&T.
