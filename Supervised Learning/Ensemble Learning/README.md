@@ -30,3 +30,12 @@ The idea is that whenever a classifier missclassifies a data point,this data poi
 ### Gradient Boosting
 
 Another popular boosting method is gradient boosting. This method works by sequentially adding predictors to an ensemble, each correcting is predecessor. The difference between this method and AdaBoost is that gradient boosting tries to fit the new predictor to the residual errors made by the previous predictor.
+
+## Datasets
+
+Palmer Penguins
+source: @allison_horst https://github.com/allisonhorst/penguins
+
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis[source:WIkipedia]
+
+Palmer Archipelago (Antarctica) penguin dataset appears to be a drop in replacemnt for the same. It is a great intro dataset for data exploration & visualization. Let's import the dataset and explore it to understand it better.
