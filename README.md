@@ -1,5 +1,10 @@
 # Rice University - INDE 577 Data Science and Machine Learning  🌱 
 
+by Yunneng Qian
+
+netID: yq25
+
+
 ## Course Description
 
 This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. We implement many of the machine learning algorithms from scratch, but also make use of the Skikit-Learn and Tensorflow libraries. 
